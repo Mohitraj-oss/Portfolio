@@ -2,7 +2,7 @@
 
 A single-page portfolio website built with HTML, CSS and JavaScript by Mohit Raj.
 
-**Live site:** https://mohit-raj.niat.tech
+**Live site:** https://mohitraj-oss.github.io/Portfolio/
 **Resume:** link or file name
 
 ## What's inside
