@@ -15,7 +15,7 @@ A single-page portfolio website built with HTML, CSS and JavaScript by Mohit Raj
 2. Open index.html in your browser
 
 ## Screenshot
-![Portfolio screenshot](images/screenshot.png)
+![Portfolio screenshot]
 
 ## What I learned
 Write 2 or 3 lines in your own words.
